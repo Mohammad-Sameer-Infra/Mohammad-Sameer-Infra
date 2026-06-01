@@ -79,3 +79,17 @@ My personal learning repository for:
 * Reliability
 * Cloud Architecture
 * Infrastructure Design
+
+## 🎯 Current Mission
+
+Building expertise in:
+
+* Cloud Architecture
+* Infrastructure as Code
+* Kubernetes
+* Distributed Systems
+* Platform Engineering
+
+with the goal of becoming a Solution Architect capable of designing scalable and resilient infrastructure platforms.
+
+> Automate what is repetitive. Simplify what is complex. Design for scale.
