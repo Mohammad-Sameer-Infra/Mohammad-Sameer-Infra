@@ -12,10 +12,6 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
   <img src="https://komarev.com/ghpvc/?username=Mohammad-Sameer-Infra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Mohammad-Sameer-Infra&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://komarev.com/ghpvc/?username=Mohammad-Sameer-Infra&label=Profile%20Views&color=0e75b6&style=flat" />
-
 ## 🚀 About Me
 
 - 💼 9+ years in Linux Administration and Infrastructure Operations
