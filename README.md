@@ -8,6 +8,10 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=9%2B+Years+of+Infrastructure+Experience;Linux+Administrator;Cloud+and+Automation+Engineer;Learning+Kubernetes+and+OpenTofu;Future+Solution+Architect" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=9%2B+Years+of+Infrastructure+Experience;Linux+Administrator;Cloud+and+Automation+Engineer;Learning+Kubernetes+and+OpenTofu;Future+Solution+Architect" />
+</p>
+
 ## 🚀 About Me
 
 - 💼 9+ years in Linux Administration and Infrastructure Operations
