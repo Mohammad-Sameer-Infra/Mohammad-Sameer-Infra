@@ -22,8 +22,60 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,terraform,azure,aws,ansible" />
 </p>
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Mohammad-Sameer-Infra&show_icons=true)
+### 🔹 Linux Patch Dashboard
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sameer-Infra&layout=compact)
+Enterprise patch management and reporting platform using:
+
+* Ansible
+* Linux
+* Automation
+* Reporting
+
+**Goal:** Improve patch visibility and compliance reporting.
+
+### 🔹 Azure Infrastructure Labs
+
+Hands-on Azure infrastructure deployments and architecture exercises.
+
+Topics:
+
+* Virtual Networks
+* Virtual Machines
+* Network Security Groups
+* Azure Storage
+* Monitoring
+
+### 🔹 OpenTofu Azure Labs
+
+Infrastructure as Code deployments using OpenTofu.
+
+Topics:
+
+* Resource Groups
+* Networking
+* Virtual Machines
+* State Management
+
+### 🔹 Kubernetes Learning Lab
+
+Production-style Kubernetes learning environment.
+
+Topics:
+
+* Deployments
+* Services
+* Ingress
+* Troubleshooting
+* Monitoring
+
+### 🔹 System Design Notes
+
+My personal learning repository for:
+
+* Distributed Systems
+* Scalability
+* Reliability
+* Cloud Architecture
+* Infrastructure Design
