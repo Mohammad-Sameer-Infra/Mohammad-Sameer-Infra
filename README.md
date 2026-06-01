@@ -9,7 +9,7 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=9%2B+Years+of+Infrastructure+Experience;Linux+Administrator;Cloud+and+Automation+Engineer;Learning+Kubernetes+and+OpenTofu;Future+Solution+Architect" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-Sameer-Infra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
