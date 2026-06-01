@@ -7,7 +7,6 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=9%2B+Years+of+Infrastructure+Experience;Linux+Administrator;Cloud+and+Automation+Engineer;Learning+Kubernetes+and+OpenTofu;Future+Solution+Architect" />
 </p>
----
 
 ## 🚀 About Me
 
@@ -16,3 +15,9 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
 - 🤖 Infrastructure Automation using Ansible
 - 📚 Learning OpenTofu, Kubernetes and Architecture Design
 - 🎯 Working toward Infrastructure Architect / Solution Architect roles
+
+## 🛠️ Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,terraform,azure,aws,ansible" />
+</p>
