@@ -21,3 +21,9 @@ Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,terraform,azure,aws,ansible" />
 </p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Mohammad-Sameer-Infra&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sameer-Infra&layout=compact)
