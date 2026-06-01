@@ -1,50 +1,113 @@
-# Hi, I'm Md Sameer 👋
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
 
-Infrastructure Engineer | Linux Administrator | Cloud & Automation Enthusiast
+<h1 align="center">Hi 👋, I'm Md Sameer</h1>
 
-With 9+ years of experience in Linux and enterprise infrastructure, I specialize in automation, cloud operations, and building reliable production environments.
+<h3 align="center">Infrastructure Engineer | Linux Administrator | Future Solution Architect</h3>
 
-## 🚀 Technical Focus
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=8%2B+Years+of+Infrastructure+Experience;Linux+and+Cloud+Professional;Automation+with+Ansible;Learning+OpenTofu+and+Kubernetes;Exploring+Distributed+Systems;Future+Solution+Architect" />
+</p>
 
-- Linux Administration
-- Infrastructure Automation (Ansible)
-- AWS & Azure Cloud
-- OpenTofu / Terraform
+---
+
+## 🚀 About Me
+
+- 💼 9+ years in Linux Administration and Infrastructure Operations
+- ☁️ Experience with AWS and Azure
+- 🤖 Infrastructure Automation using Ansible
+- 📚 Currently learning OpenTofu, Kubernetes and Architecture Design
+- 🎯 Working toward Infrastructure Architect / Solution Architect roles
+
+---
+
+## 🏗️ Architecture Journey
+
+Linux Administrator
+
+⬇️
+
+Infrastructure Engineer
+
+⬇️
+
+Cloud Engineer
+
+⬇️
+
+Platform Engineer
+
+⬇️
+
+Infrastructure Architect
+
+⬇️
+
+Solution Architect
+
+---
+
+## ⚙️ Technology Stack
+
+### Operating Systems
+- Linux
+- RHEL
+- Ubuntu
+
+### Automation
+- Ansible
+- Bash
+
+### Cloud
+- Azure
+- AWS
+
+### Infrastructure as Code
+- OpenTofu
+- Terraform
+
+### Containers
+- Docker
 - Kubernetes
-- CI/CD
-- Monitoring & Observability
-- Distributed Systems
 
-## 📚 Currently Learning
+### Version Control
+- Git
+- GitHub
 
-- Azure Architecture
-- Kubernetes Internals
-- Platform Engineering
-- Solution Architecture
-- AI Infrastructure
+---
 
-## 🎯 Career Vision
+## 🚀 Featured Projects
 
-To become a Solution Architect focused on designing scalable, resilient, secure, and cost-effective cloud infrastructure for modern applications.
+### Linux Patch Dashboard
+Automated patch reporting and infrastructure visibility.
+
+### Azure Infrastructure Labs
+Hands-on cloud architecture and automation projects.
+
+### Kubernetes Learning Lab
+Production-style Kubernetes deployments and troubleshooting.
+
+---
+
+## 📚 Current Learning Roadmap
+
+- [x] Linux Administration
+- [x] Infrastructure Operations
+- [x] Ansible Automation
+- [x] AWS Fundamentals
+
+- [ ] Azure Architecture
+- [ ] OpenTofu
+- [ ] Kubernetes
+- [ ] Distributed Systems
+- [ ] System Design
+- [ ] Solution Architecture
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://in.linkedin.com/in/md-sameer
-- GitHub: https://github.com/Mohammad-Sameer-Infra
+GitHub: https://github.com/Mohammad-Sameer-Infra
 
 > Automate what is repetitive, simplify what is complex, and design for scale.
->
-> ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Sameer-Infra&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sameer-Infra&layout=compact)
-
-## 🛠️ Technologies
-
-![Linux](https://img.shields.io/badge/Linux-Admin-blue)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
